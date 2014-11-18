@@ -1,6 +1,6 @@
 # layout-stack [![NPM version](https://badge.fury.io/js/layout-stack.svg)](http://badge.fury.io/js/layout-stack)
 
-> Create a layout stack.
+> Create a layout stack based on the given layout templates.
 
 ## Install
 ### Install with [npm](npmjs.org)
