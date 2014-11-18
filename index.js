@@ -13,12 +13,12 @@
  * ```js
  * var stack = createStack('2-col-side-nav', layouts);
  * ```
- *
  * @param  {String} `name` The name of the first layout to add to the stack.
  * @param  {Object} `layouts` Possible layout templates tha could be used in the stack.
  * @param  {Object} `options` Options to pass to `assertLayout`.
  * @return {Array} The layout stack starting with the given name.
  * @api public
+ * @name  createStack
  */
 
 module.exports = function createStack (name, layouts, opts) {

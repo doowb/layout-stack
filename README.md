@@ -22,7 +22,7 @@ var stack = require('layout-stack');
 ```
 
 ## API
-### [.exports](index.js#L24)
+### [.createStack](index.js#L24)
 
 Build a layout stack.
 
