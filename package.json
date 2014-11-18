@@ -1,7 +1,7 @@
 {
   "name": "layout-stack",
   "description": "Create a layout stack based on the given layout templates.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/doowb/layout-stack",
   "author": {
     "name": "Brian Woodward",
